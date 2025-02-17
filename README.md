@@ -1,4 +1,4 @@
-# Network Attack Detection using Machine Learning
+# Advanced Detection of Port Scanning, DoS, and Malicious Attacks Using AI-Driven Techniques
 
 ## Description
 
